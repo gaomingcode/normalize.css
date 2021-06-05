@@ -1,0 +1,20 @@
+{
+    "name": "gaomingcode/normalize.css",
+    "description": "A cross-browser CSS foundation",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "css", "normalizes", "browsers", "fixes"
+    ],
+    "homepage": "https://github.com/csstools/normalize.css#readme",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Jonathan Neal",
+            "email": "jonathantneal@hotmail.com"
+        }
+    ]
+}
